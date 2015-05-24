@@ -1,0 +1,16 @@
+﻿Build started 06/12/2013 13:20:28.
+     1>Project "D:\My Documents\Visual Studio 2012\Projects\AP Creator\AP Creator\AP Creator.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /AIC:\Windows\Microsoft.NET\Framework\v2.0.50727\ /AI"C:\Program Files (x86)\Windows Kits\8.0\References\CommonConfiguration\Neutral" /Zi /clr:pure /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\AP Creator.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /TP /FUC:\Windows\Microsoft.NET\Framework\v2.0.50727\mscorlib.dll /FUC:\Windows\Microsoft.NET\Framework\v2.0.50727\System.Data.dll /FUC:\Windows\Microsoft.NET\Framework\v2.0.50727\System.dll /FUC:\Windows\Microsoft.NET\Framework\v2.0.50727\System.Drawing.dll /FUC:\Windows\Microsoft.NET\Framework\v2.0.50727\System.Windows.Forms.dll /FUC:\Windows\Microsoft.NET\Framework\v2.0.50727\System.Xml.dll /analyze- /errorReport:prompt /d1clr:nostdlib "AP Creator.cpp"
+         AP Creator.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\My Documents\Visual Studio 2012\Projects\AP Creator\Debug\AP Creator.exe" /INCREMENTAL /NOLOGO /ASSEMBLYRESOURCE:Debug\APCreator.Form1.resources /MANIFEST /MANIFESTUAC:"level='requireAdministrator' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\My Documents\Visual Studio 2012\Projects\AP Creator\Debug\AP Creator.pdb" /ASSEMBLYDEBUG /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"main" /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 Debug\app.res
+         "Debug\AP Creator.obj"
+         Debug\AssemblyInfo.obj
+         Debug\stdafx.obj
+         AP Creator.vcxproj -> D:\My Documents\Visual Studio 2012\Projects\AP Creator\Debug\AP Creator.exe
+     1>Done Building Project "D:\My Documents\Visual Studio 2012\Projects\AP Creator\AP Creator\AP Creator.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:09.21
